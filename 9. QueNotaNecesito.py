@@ -4,7 +4,7 @@
 
 c1 = float(input("Introduzca la nota del primer certamen: \n"))
 c2 = float(input("Introduzca la nota del segundo certamen: \n"))
-nl = float(input("Im+ntroduzca la nota de laboratorio: \n"))
+nl = float(input("Introduzca la nota de laboratorio: \n"))
 
 nc = (10*60-3*nl)/7
 c3= 3*nc-c1-c2
